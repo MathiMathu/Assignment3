@@ -1,0 +1,34 @@
+Student Grade Summary
+---------------------
+
+
+ENGLISH CLASS
+
+
+Student                                   Final Final   Letter
+Name                                      Exam  Avg     Grade
+Schmuckatelli  Joe                              90    84.33    B
+
+
+SCIENCE CLASS
+
+
+Student                                   Final Final   Letter
+Name                                      Exam  Avg     Grade
+Dipwart  Marvin                             88    82.75    B
+
+
+MATH CLASS
+
+
+Student                                   Final Final   Letter
+Name                                      Exam  Avg     Grade
+Bunny  Bugs                             93    92.38    A
+Crack Corn  Jimmy                             68    56.88    D
+
+
+Number of A:   1
+Number of B:   2
+Number of C:   0
+Number of D:   1
+Number of F:   0
